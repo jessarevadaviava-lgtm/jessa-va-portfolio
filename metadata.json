@@ -1,0 +1,6 @@
+{
+  "name": "Jessa Revadavia | AI-Powered Virtual Assistant",
+  "description": "Modern, elegant, professional portfolio for Jessa Revadavia — Filipino AI-Powered Virtual Assistant specializing in social media management, graphic design, content creation, and administrative workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
